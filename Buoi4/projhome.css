@@ -1,0 +1,134 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+p a {
+    color: white;
+    font-size: 30px;
+    
+}
+ p a:hover {
+    color: #FFB400;
+   
+}
+.container .row .col-sm-6 a {
+    color: white;
+}
+
+.container .row .col-sm-6 a:hover{
+    color: #FFB400;
+}
+.row .col-sm-6 a { 
+    text-decoration: none;
+}
+.container h6:first-child::before {
+    content: '';
+    display: inline-block;
+    height: 0.1em;
+    width: 2em;
+    border-bottom: 3px solid #0072D3;
+    position: absolute;
+    left: 1em;
+    top: 0.7em;
+}
+.quyy {
+    padding-left: 50px;
+    background-image: url(Communication.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+}
+.con1 {
+    position: absolute;
+    background-image: url(images/hand-shaking.jpg);
+    background-size: contain;
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.con1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    align-content: center;
+    margin-left: -76px;
+}
+.con2 {
+    position: absolute;
+    background-image: url(images/Book-Icon.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: white;
+}
+.con2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    align-content: center;
+    margin-left: -76px;
+}
+.quyy .quy-content a {
+    text-decoration: none;
+    color: white;
+}
+.quy-content a {
+    color: white;
+    position: relative;
+}
+.quy-content a h3 {
+    margin-top: 15px;
+}
+.quy-content a:hover {
+    color:rgba(8, 3, 3, 0.603);
+}
+.quy2-content {
+    margin-top: 55px;
+}
+.container h6:first-child::before {
+    content: '';
+    display: inline-block;
+    height: 0.1em;
+    width: 2em;
+    border-bottom: 3px solid #0072D3;
+    position: absolute;
+}
+
+footer {
+    margin-top: 50px;
+    background-color: #343A40;
+    height:409px ;
+    width: 1520px;
+}
+.quy {
+    color:#FFFFFF80;
+}
+.quy li a {
+    text-decoration: none;
+    color: #FFFFFF80;
+}
+.quy li {
+    list-style: none;
+}
+/*only dien thoai*/
+@media screen and (max-width:767.99px) {
+    .con1 {
+        top: 39%;
+        left: 22%; 
+    }
+    .con2 {
+        top: 74%;
+        left: 22%;
+    }
+    footer .container .row {
+        font-size: 13px;
+        height: 100%;
+    }
+    .subcribe-form {
+        top:10px
+    }
+}
