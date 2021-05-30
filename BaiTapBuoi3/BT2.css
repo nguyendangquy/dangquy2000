@@ -1,0 +1,15 @@
+.list {
+    list-style: none;
+    padding-left: 0;
+}
+ul li {
+    display: block;
+}
+.container {
+    color: #6C757D;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.quy {
+    padding-left: 285px;
+}
