@@ -1,0 +1,140 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box
+}
+.header {
+    width: 100%;
+    height: 90px;
+    background-color: seagreen;
+    line-height: 50px;
+    position: relative;
+}
+.p1{
+    width: 50%;
+    float: left;
+    color: white;
+}
+.left {
+    float: left;
+    width: 30%;
+    padding-left: 40px;
+}
+.right {
+    float: right;
+    width: 70%;
+}
+.p2{
+    width: 50%;
+    float: right;
+    padding-left: 370px;
+    color: white;
+    font-weight: 700;
+}
+
+.menu {
+    background-color: white;
+    height: 70px;
+    position: absolute;
+    margin-top:  60px;
+    width: 90%;
+    margin-left: 80px;
+}
+.menu-p1{
+    float: left;
+    width: 20%;
+    padding-top: -50px;
+}
+.ACC {
+    margin-top: -72px;
+    margin-left: 90px;
+}
+.ACC p {
+    margin-top: -15px;
+    font-size: 10px;
+}
+.menu-p2{
+    float: right;
+    width: 60%;
+    margin-right: 220px;
+}
+.menu-p2 ul li {
+    display:inline-block;
+}
+.menu-p2 ul li a {
+    line-height: 70px;
+    width: 200px;
+    text-align: center;
+    color:green;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 0 10px;
+    font-weight: 700;   
+}
+
+.menu-p3 {
+    float: right;
+    width: 15%; 
+    margin-top: -75px;
+}
+.menu-p3 p a {
+    text-decoration: none;
+    color:black
+}
+.menu-p1-ACC {
+   padding-top: 10px;
+    padding-left: 30px;
+
+}
+
+.timkiem {
+    background-color: white;
+    height: 90px;
+    width: 70%;
+    position: absolute;
+    margin-top: -47px;
+    margin-left: 195px;
+    font-size: 18px;
+    color:black ;
+}
+.container-fluid {
+    background-image: url(images/bg11.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    position: relative; 
+  
+}
+.bang1 {
+    background-color: rgb(51, 47, 47);
+    width: 400px;
+    height: 300px;
+    margin-left: 20px;
+}
+.bang2 {
+    background-color: rgb(51, 47, 47);
+    width: 400px;
+    height: 300px;
+    margin-left: 40px;
+}
+.bang3 {
+    background-color: rgb(51, 47, 47);
+    width: 400px;
+    height: 300px;
+    margin-left:40px;
+}
+.content-left {
+    float: left;
+    width: 50%;
+    padding-right: 30px;
+    padding-top:20px;
+   
+}
+.content-left .img {
+    float: left;
+    padding-left: 16rem;
+}
+.content-right {
+    float: right;
+    width: 50%;
+}
