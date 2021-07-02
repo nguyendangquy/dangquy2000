@@ -61,9 +61,8 @@ footer {
     z-index:999 ;
     left: 6px;
     top:62px;
-    padding: 8px 22px;
+    padding: 8px 22px;  
     line-height: 3;
-  
     }
 .con li{
     display:block;
