@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\bin\Debug\dictionary.exe.config
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\bin\Debug\dictionary.exe
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\bin\Debug\dictionary.pdb
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\obj\Debug\TuDien.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\obj\Debug\dictionary.Main.resources
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\obj\Debug\dictionary.formThongTin.resources
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\obj\Debug\dictionary.formQuanLy.resources
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\obj\Debug\dictionary.Properties.Resources.resources
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\obj\Debug\TuDien.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\obj\Debug\TuDien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\obj\Debug\dictionary.exe
+C:\Users\Admin\Desktop\[sharecode.vn]Tu dien chuyen nghanh toan hoc\Tu dien\Dictionary\obj\Debug\dictionary.pdb
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\bin\Debug\dictionary.exe.config
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\bin\Debug\dictionary.exe
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\bin\Debug\dictionary.pdb
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\obj\Debug\TuDien.csproj.AssemblyReference.cache
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\obj\Debug\dictionary.Main.resources
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\obj\Debug\dictionary.formThongTin.resources
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\obj\Debug\dictionary.formQuanLy.resources
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\obj\Debug\dictionary.Properties.Resources.resources
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\obj\Debug\TuDien.csproj.GenerateResource.cache
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\obj\Debug\TuDien.csproj.CoreCompileInputs.cache
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\obj\Debug\dictionary.exe
+C:\Users\Dang Quy\Downloads\TuDien\Tu dien\Dictionary\obj\Debug\dictionary.pdb
