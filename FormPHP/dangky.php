@@ -3,13 +3,15 @@
 
 <h2>Đăng ký tiêm chủng vắc xin covid</h2>
 
-    Username: <input type="text" name="username" value="" required>
+    Tài khoản: <input type="text" name="username" value="" required>
     <br>
-    Password: <input type="text" name="password" value="" required/>
+    Mật khẩu: <input type="text" name="password" value="" required/>
     <br>
     Email: <input type="email" name="email" value="" required/>
     <br>
-    Phone: <input type="text" name="phone" value="" required/>
+    Điện thoại: <input type="text" name="phone" value="" required/>
+    <br>
+    Địa chỉ: <input type="text" name="diachi" value="" required/>
     <br><br>
     <input type="submit" name="dangky" value="Đăng Ký"/>
 </form>
